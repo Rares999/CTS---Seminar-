@@ -14,3 +14,5 @@ Code Review
 - there are no validations for t, s, and perioada
 
 
+3. Single Responsability & KISS
+- outsource the intermediary operations into new simple functions 
